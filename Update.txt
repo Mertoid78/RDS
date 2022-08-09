@@ -1,3 +1,0 @@
-2.6.0.0#
-https://github.com/Mertoid78/RDS/blob/gh-pages/RDSUpdater.exe?raw=true#
-https://github.com/Mertoid78/RDS/blob/gh-pages/RDS%20Shadow.exe?raw=true#
